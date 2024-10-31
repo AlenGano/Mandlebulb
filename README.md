@@ -1,5 +1,5 @@
 # Mandlebulb
-Code for rendering a mandlebulb using OpenGL and Cuda 
+Code for rendering a mandlebulb using OpenGL
 
 (Preview of the rendering is below)
 
